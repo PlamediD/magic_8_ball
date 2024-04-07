@@ -1,16 +1,9 @@
 # magic_8_ball
 
-A new Flutter project.
+Description:
+This project is part of the coursework for "The Complete Flutter Development Bootcamp with Dart" on Udemy. The Magic 8 Ball Flutter App is a simple mobile application built using the Flutter framework and Dart programming language. The app allows users to ask any question and receive a random answer from the Magic 8 Ball. Users can personalize the app by entering their name and typing their question. Upon submission, the app generates a random response along with the user's question and displays them on the screen. The project demonstrates basic UI design, state management, and integration of user input functionalities within a Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Technologies used: 
+- Futter
+- -Dart
+- Android Studio
